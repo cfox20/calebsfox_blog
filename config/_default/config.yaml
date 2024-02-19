@@ -1,5 +1,5 @@
 theme: blowfish
-baseURL: "https://calebsfox.netlify.app"
+baseURL: "https://github.com/cfox20/calebsfox_blog"
 defaultContentLanguage: en
 enableRobotsTXT: yes
 paginate: 10
