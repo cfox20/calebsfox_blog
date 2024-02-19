@@ -1,0 +1,20 @@
+---
+title: Hello Blog
+author: 'Caleb Fox'
+date: '2024-02-18'
+slug: []
+categories: []
+tags: []
+draft: no
+---
+
+
+
+<pre class="r"><code>library(&quot;tidyverse&quot;)
+theme_set(theme_minimal())
+theme_update(panel.grid.minor = element_blank(), 
+  plot.title = element_text(hjust = 0.5))</code></pre>
+<pre class="r"><code>tibble(x = rnorm(100)) |&gt; 
+  ggplot(aes(x)) +
+    geom_density()</code></pre>
+<p><img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" /></p>

@@ -1,0 +1,5 @@
+Helpful things to remember
+
+
+Function to create new post. Change the subdir to put it in the location on website
+new_post("title", ext = ".Rmd", subdir = "posts")
