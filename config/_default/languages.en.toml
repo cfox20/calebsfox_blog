@@ -1,12 +1,12 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "What Does the Caleb Fox Say"
+title = "Caleb Fox"
 
 [author]
 name = "Caleb S Fox"
 image = "img/caleb_fox.jpg"
-headline = "A generally awesome human"
+headline = "Doctoral Student at Baylor University"
 bio = "A little bit about me"
 links = [
   { github = "https://github.com/cfox20" },

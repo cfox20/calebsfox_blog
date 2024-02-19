@@ -18,7 +18,7 @@ enableCodeCopy = true
 disableImageOptimization = false
 disableTextInHeader = false
 
-# defaultBackgroundImage = "IMAGE.jpg" # used as default for background images 
+defaultBackgroundImage = "data-background.jpg" # used as default for background images 
 # defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
@@ -32,12 +32,12 @@ disableTextInHeader = false
   showMenu = true
   showCopyright = true
   showThemeAttribution = false
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
   layout = "background" # valid options: page, profile, hero, card, background, custom
-  homepage.homepageImage = "data-background.jpg" # used in: hero, and card
+  homepage.homepageImage = "assets/img/data-background.jpg" # used in: hero, and card
   showRecent = true
   showRecentItems = 5
   showMoreLink = false
@@ -54,7 +54,7 @@ disableTextInHeader = false
   showDateUpdated = false
   showAuthor = true
   showHero = false
-  # heroStyle = "basic" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
