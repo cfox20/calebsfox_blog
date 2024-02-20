@@ -9,14 +9,10 @@ layout: "simple"
 
 **Address:** 6400 Cold Water Dr., Waco, TX 76712  
 **Phone:** (515) 943-0204  
-**E-mail:** [calebfox2@baylor.edu](mailto:calebfox2@baylor.edu)    
+**E-mail:** [caleb_fox2@baylor.edu](mailto:calebfox2@baylor.edu)    
 **LinkedIn:** [caleb-s-fox](https://www.linkedin.com/in/caleb-s-fox/)  
 **GitHub:** [cfox20](https://github.com/cfox20)  
 
-## Technical Competencies
-
-**Programming:** R (expertise in the tidyverse and ggplot2), JAGS, SAS; Git; GitHub; basic experience with C++, Python, SQL.  
-**Applications:** RStudio, LaTeX, PowerBI, Minitab, Microsoft Office.  
 
 ## Education
 
@@ -25,18 +21,14 @@ layout: "simple"
   Dissertation: "A Bootstrap for Spatio Temporal Self-Exciting Point Processes."  
   Advisor: Dr. Rodney X. Sturdivant  
 
-### Taylor University, Upland, Indiana
 **M.S. in Statistics** (June 2021 – December 2022)  
   GPA: 3.86
 
+### Taylor University, Upland, Indiana
 **B.S. in Mathematics** (August 2015 – May 2019)  
   Minors in Computer Science and Data Science  
   GPA: 3.88  
   Outstanding Achievement in Applied Mathematics, Spring 2021  
-
-## Research Interests
-
-Statistical Learning, Machine Learning, Data Science, Deep Learning, Hawkes Processes, Sports Analytics, Big Data.  
 
 ## Work Experience
 
@@ -59,6 +51,15 @@ Statistical Learning, Machine Learning, Data Science, Deep Learning, Hawkes Proc
 ## Publications
 
 Geneece L. Goertzen & Caleb S. Fox (2023). "Response of Christian faith leaders to domestic violence: training beliefs and practice." Journal of Religion & Spirituality in Social Work: Social Thought, 42(4), 431-457.  
+
+## Research Interests
+
+Statistical Learning, Machine Learning, Data Science, Deep Learning, Hawkes Processes, Sports Analytics, Big Data.  
+
+## Technical Competencies
+
+**Programming:** R (expertise in the tidyverse and ggplot2), JAGS, SAS; Git; GitHub; basic experience with C++, Python, SQL.  
+**Applications:** RStudio, LaTeX, PowerBI, Minitab, Microsoft Office.  
 
 ## Relevant Coursework
 

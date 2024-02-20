@@ -12,14 +12,14 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
-# mainSections = ["section1", "section2"]
+mainSections = ["projects", "blog_posts"]
 # robots = ""
 
 disableImageOptimization = false
 disableTextInHeader = false
 
 defaultBackgroundImage = "img/background.jpg" # used as default for background images 
-# defaultFeaturedImage = "IMAGE.jpg" # used as default for featured images in all articles
+defaultFeaturedImage = "img/csf_logo_transparent.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
 # smartTOC = true
