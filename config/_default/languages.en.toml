@@ -7,7 +7,7 @@ title = ""
 name = "Caleb S Fox"
 image = "img/caleb_fox.jpg"
 headline = "Doctoral Student at Baylor University"
-bio = "I am a third year doctoral student at Baylor University. I am passionate about leveraging data methods to support spread the gospel."
+bio = "I am a third year doctoral student at Baylor University"
 links = [
   { github = "https://github.com/cfox20" },
   { linkedin = "https://www.linkedin.com/in/caleb-s-fox/" }
@@ -19,7 +19,7 @@ links = [
   rtl = false
   dateFormat = "2 January 2006"
   logo = "img/csf_logo_transparent.png"
-  # secondaryLogo = "img/secondary-logo.png"
+  secondaryLogo = "img/csf_logo_transparent.png"
   # description = "My awesome website"
   # copyright = "Copy, _right?_ :thinking_face:"
 

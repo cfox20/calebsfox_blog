@@ -12,6 +12,7 @@ autoSwitchAppearance = true
 enableSearch = true
 enableCodeCopy = true
 
+# Change the mainSections to set the recent posts to display on homepage
 mainSections = ["projects", "blog_posts"]
 # robots = ""
 
@@ -22,7 +23,7 @@ defaultBackgroundImage = "img/background.jpg" # used as default for background i
 defaultFeaturedImage = "img/csf_logo_transparent.png" # used as default for featured images in all articles
 
 # highlightCurrentMenuArea = true
-# smartTOC = true
+smartTOC = true
 # smartTOCHideUnfocusedChildren = true
 
 [header]
@@ -52,9 +53,9 @@ defaultFeaturedImage = "img/csf_logo_transparent.png" # used as default for feat
   showLikes = false
   showDateOnlyInArticle = false
   showDateUpdated = false
-  showAuthor = true
+  showAuthor = false
   showHero = false
-  heroStyle = "background" # valid options: basic, big, background, thumbAndBackground
+  heroStyle = "hero" # valid options: basic, big, background, thumbAndBackground
   layoutBackgroundBlur = true # only used when heroStyle equals background or thumbAndBackground
   layoutBackgroundHeaderSpace = true # only used when heroStyle equals background
   showBreadcrumbs = false
@@ -67,13 +68,13 @@ defaultFeaturedImage = "img/csf_logo_transparent.png" # used as default for feat
   showPagination = true
   invertPagination = false
   showReadingTime = true
-  showTableOfContents = false
+  showTableOfContents = true
   # showRelatedContent = false
   # relatedContentLimit = 3
   showTaxonomies = false
   showAuthorsBadges = false
   showWordCount = true
-  # sharingLinks = [ "linkedin", "twitter", "reddit", "pinterest", "facebook", "email", "whatsapp", "telegram"]
+  #sharingLinks = [ "linkedin", "twitter", "facebook", "email",]
   showZenMode = false
 
 [list]
@@ -88,7 +89,7 @@ defaultFeaturedImage = "img/csf_logo_transparent.png" # used as default for feat
   showTableOfContents = false
   showCards = false
   groupByYear = true
-  cardView = false
+  cardView = true
   cardViewScreenWidth = false
   constrainItemsWidth = false
 
