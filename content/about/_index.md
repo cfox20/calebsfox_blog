@@ -1,37 +1,26 @@
 ---
 description: A quick introduction.
 title: 'About Me'
+layout: "simple"
 ---
 
+<img src="cf_presentation.jpg" alt="Your Name" style="float: right; margin-left: 30px; width: 50%;">
 
-Welcome to Blowfish, one of the most flexible and robust Hugo themes. It is designed to be simple, fast and content-focused. Learn more about how to install [here]({{< ref "docs/installation" >}}) or get started with our CLI using:
+Welcome to my personal blog! My name is Caleb Fox, and I'm passionate about sharing my knowledge and experiences in the world of statistics, data science, and my many hobbies and interests.
 
-```node
-npx blowfish-tools
-```  
+I'm currently a doctoral candidate at Baylor University studying statistics. My research is an ongoing exploration of the estimation of self-exciting point processes. However, my true passion for statistics is to serve my creator and to worship Jesus through these analytic skills I have been given. I believe modern data analytics tools provide an exciting new way to show God's love by supporting the efforts of Churches and missions organizations to serve those in need and share the good news of Jesus!
 
-<iframe width="100%" height="350" src="https://www.youtube.com/embed/SgXhGb-7QbU?si=ce44baicuQ6zMeXz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+On this blog, I'll be sharing insights, applications, and thoughts on various topics related to statistics, data science, R programming, and other areas that pique my interest. Whether you're a fellow data enthusiast or just curious about the world of analytics, I hope you'll find something of value here.
 
-<!--You can also find the complete theme documentation in [docs]({{< ref "docs" >}}). Blowfish is highly customizable and can be configured to fit your needs: from a static website to a blog. Checkout some [examples](/examples) and what some of our [users](/users) have been building.
+In my free time, I enjoy weightlifting, disc golf, playing piano, reading a good book, and cheering on the White Sox. As a true data nerd, analyses of these hobbies may show up on this blog from time to time.
 
-Explore the [shortcode list]({{< ref "docs/shortcodes" >}}) and [sample pages]({{< ref "samples" >}}) to get a feel for what Blowfish can do. If you like what you see, check out the project on <a target="_blank" href="https://github.com/nunocoracao/blowfish">Github</a> or read the [Installation guide]({{< ref "docs/installation" >}}) to get started.-->
+Thank you for visiting my blog! If you have any questions or would like to connect, feel free to [email me](mailto:caleb_fox2@baylor.edu).
 
-<!--
-<div class="flex px-4 py-2 mb-8 text-base rounded-md bg-primary-100 dark:bg-primary-900">
-  <span class="flex items-center ltr:pr-3 rtl:pl-3 text-primary-400">
-    {{< icon "triangle-exclamation" >}}
-  </span>
-  <span class="flex items-center justify-between grow dark:text-neutral-300">
-    <span class="prose dark:prose-invert">This is a demo of the <code id="layout">background</code> layout.</span>
-    <button
-      id="switch-layout-button"
-      class="px-4 !text-neutral !no-underline rounded-md bg-primary-600 hover:!bg-primary-500 dark:bg-primary-800 dark:hover:!bg-primary-700"
-    >
-      Switch layout &orarr;
-    </button>
-  </span>
-</div>
--->
+Happy reading!
+
+Caleb Fox
+
+
 
 
 
