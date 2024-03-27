@@ -11,6 +11,6 @@ showSummary: false
 showTableOfContents: true
 showTaxonomies: false
 showWordCount: false
-title: Posts
+title: Projects
 ---
 

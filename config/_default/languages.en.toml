@@ -6,7 +6,7 @@ title = ""
 [author]
 name = "Caleb S Fox"
 image = "img/caleb_fox.jpg"
-headline = "Doctoral Student at Baylor University"
+headline = "Doctoral Candidate at Baylor University"
 bio = "I am a third year doctoral student at Baylor University"
 links = [
   { github = "https://github.com/cfox20" },
